@@ -1,0 +1,48 @@
+﻿# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / packaging artefacts (PyInstaller, Nuitka, setuptools)
+build/
+dist/
+*.build/
+*.dist/
+*.onefile-build/
+*.egg-info/
+.eggs/
+
+# Test / type caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets / credentials — review before removing
+.env
+.env.*
+*.key
+secret.key
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# tos-publish: design artefacts kept out of git
+web/*.glb
+*.gdoc
+*.txt
