@@ -24,9 +24,7 @@ M18_Proximity_Sensor_Brackets/
 ├── Render/
 ├── STL/
 ├── STP/
-├── LICENSE
-├── project.md
-└── README.md
+└── project.md
 ```
 
 Refer to the `CHANGELOG.md` for details about updates between versions.

@@ -76,8 +76,9 @@ print_settings:                  # "Label | Value", e.g. "Layer height | 0.2 mm"
 affiliate_disclosure: >
   As an Amazon Associate I earn from qualifying purchases. Links below may be
   affiliate links that support ThisOldScot at no extra cost to you.
-affiliate_links: []              # "Label | https://amzn.to/xxxx"
+affiliate_links:                 # "Label | https://amzn.to/xxxx"
 
+  - Polymaker PolyTerra PLA | tool:polymaker-polyterra-pla
 related: []
 source_doc: https://docs.google.com/document/d/1Px6-J4CvIyfoly5wcMwLBn_T5uXhwpHvbgMycy1scSg/edit # provenance link (e.g. a Google Doc of notes); metadata only, never published
 
